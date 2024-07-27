@@ -1,0 +1,5 @@
+﻿  application.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' diğer kitaplıkların kullanımı ile çakışıyor; /NODEFAULTLIB:library kullanın
+LINK : warning LNK4098: defaultlib 'LIBCMT' diğer kitaplıkların kullanımı ile çakışıyor; /NODEFAULTLIB:library kullanın
+glew32s.lib(glew.obj) : warning LNK4099: PDB '', 'glew32s.lib(glew.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+  Project1.vcxproj -> C:\dev\OpenGL\Project1\Debug\Project1.exe
